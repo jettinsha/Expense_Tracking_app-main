@@ -14,7 +14,7 @@ Future<void> main() async {
   await Firebase.initializeApp(
     options: FirebaseOptions(
       apiKey:
-          "AIzaSyBxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxX", // Replace with your actual API key
+          "AIzaSyBxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxX", // Replace       with your actual API key
       appId: "1:167560173494:android:2747cf9043a58c391b5317",
       messagingSenderId: "167560173494",
       projectId: "exppp-ff8d4",
@@ -91,3 +91,5 @@ class LaunchScreen extends StatelessWidget {
     );
   }
 }
+
+//main file
